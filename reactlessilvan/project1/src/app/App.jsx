@@ -6,9 +6,9 @@ import { Cookie } from '../cookie/cookie';
 function App() {
   return (
     <>
-      <AboutMe/>
-      <Top10/>
       <Cookie/>
+      <AboutMe/>
+      <Top10/>   
       <Card name="jap"/>
       <Card name="jap2"/>
       <Card name="jap3"/>
